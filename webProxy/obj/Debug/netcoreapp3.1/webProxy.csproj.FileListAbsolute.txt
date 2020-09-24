@@ -1,0 +1,13 @@
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\bin\Debug\netcoreapp3.1\webProxy.exe
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\bin\Debug\netcoreapp3.1\webProxy.deps.json
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\bin\Debug\netcoreapp3.1\webProxy.runtimeconfig.json
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\bin\Debug\netcoreapp3.1\webProxy.runtimeconfig.dev.json
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\bin\Debug\netcoreapp3.1\webProxy.dll
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\bin\Debug\netcoreapp3.1\webProxy.pdb
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.csprojAssemblyReference.cache
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.csproj.CoreCompileInputs.cache
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.AssemblyInfoInputs.cache
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.AssemblyInfo.cs
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.dll
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.pdb
+C:\Users\joelt\Desktop\C++ Projects\webProxy\webProxy\obj\Debug\netcoreapp3.1\webProxy.genruntimeconfig.cache
